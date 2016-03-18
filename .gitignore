@@ -166,7 +166,6 @@ rcf/
 ApplicationInsights.config
 
 # Windows Store app package directory
-AppPackages/
 BundleArtifacts/
 
 # Visual Studio cache files
